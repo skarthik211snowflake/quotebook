@@ -3,5 +3,3 @@
 2. quote 2
 
 3. quote 3
-
-4. quote 4
